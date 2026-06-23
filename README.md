@@ -4,8 +4,8 @@
 
 One battle-tested prompt, tuned for each major model. Free. Copy, paste, decode.
 
+[![GitHub stars](https://img.shields.io/github/stars/JuliaMuller7777/llm-job-decoder?style=social)](https://github.com/JuliaMuller7777/llm-job-decoder/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](LICENSE)
-[![Star this repo](https://img.shields.io/badge/⭐-star_this_repo-yellow.svg)](#)
 
 ---
 
@@ -49,4 +49,9 @@ MIT — use it, fork it, remix it. A star helps others find it.
 
 ---
 
-Built by [B2B Marketcraft](https://b2bmarketcraft.com).
+## Go deeper
+
+- **Full decode:** the [Job Signals Report](https://b2bmarketcraft.com) runs the complete 12-signal analysis on a single posting.
+- **Site:** [b2bmarketcraft.com](https://b2bmarketcraft.com)
+
+Built by **B2B Marketcraft**. If this saved you time, a ⭐ helps the next person find it.
